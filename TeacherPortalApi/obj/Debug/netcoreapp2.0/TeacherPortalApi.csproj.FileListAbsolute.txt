@@ -1,0 +1,11 @@
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\bin\Debug\netcoreapp2.0\TeacherPortalApi.deps.json
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\bin\Debug\netcoreapp2.0\TeacherPortalApi.runtimeconfig.json
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\bin\Debug\netcoreapp2.0\TeacherPortalApi.runtimeconfig.dev.json
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\bin\Debug\netcoreapp2.0\TeacherPortalApi.dll
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\bin\Debug\netcoreapp2.0\TeacherPortalApi.pdb
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\obj\Debug\netcoreapp2.0\TeacherPortalApi.csprojAssemblyReference.cache
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\obj\Debug\netcoreapp2.0\TeacherPortalApi.csproj.CoreCompileInputs.cache
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\obj\Debug\netcoreapp2.0\TeacherPortalApi.AssemblyInfoInputs.cache
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\obj\Debug\netcoreapp2.0\TeacherPortalApi.AssemblyInfo.cs
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\obj\Debug\netcoreapp2.0\TeacherPortalApi.dll
+C:\Users\daneh\source\repos\TeacherPortalApi\TeacherPortalApi\obj\Debug\netcoreapp2.0\TeacherPortalApi.pdb
